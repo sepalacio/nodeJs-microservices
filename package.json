@@ -1,0 +1,19 @@
+{
+  "name": "micros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-upload": "micro serviceupload.js -p 4000",
+    "start-preview": "micro servicepreview.js -p 4001",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "is-image": "^1.0.1",
+    "micro": "^7.3.2",
+    "micro-upload": "^1.0.0",
+    "uuid": "^3.0.1"
+  }
+}
