@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "instagram_js_filter": "^1.4.0",
     "is-image": "^1.0.1",
     "micro": "^7.3.2",
     "micro-upload": "^1.0.0",
